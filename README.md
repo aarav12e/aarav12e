@@ -19,10 +19,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aarav12e&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarav12e&show_icons=true&locale=en&layout=compact" alt="aarav12e" /></p>
 
-### ✍️ Random Dev Quote
+### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aarav12e&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
